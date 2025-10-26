@@ -65,7 +65,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/halobiron/halobiron/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/halobiron/halobiron/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
