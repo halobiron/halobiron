@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is halobiron and I'm a member from PROPTIT</h2>
+<h2 align="left">Hi 👋! My name is Hai Long and I'm a member from PROPTIT</h2>
 
 ###
 
