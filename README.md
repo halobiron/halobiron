@@ -10,6 +10,17 @@
 
 ###
 
+<img align="left" height="150" src="https://github-profile-trophy.vercel.app/?username=halobiron&theme=radical&no-frame=false&no-bg=true&margin-w=4"  />
+
+###
+
+###
+
+<img align="left" height="150" src="https://github-contributor-stats.vercel.app/api?username=halobiron&limit=5&theme=dark&combine_all_yearly_contributions=true"  />
+
+###
+###
+
 <img align="right" height="150" src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif"  />
 
 ###
