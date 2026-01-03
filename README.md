@@ -1,19 +1,21 @@
-<div align="center">
-  <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" align="right" height="120" />
-  
-  <br />
-  
-  <div align="left">
-    <h1>Hi 👋! My name is Hai Long</h1>
-    <h3>Member of <b>PROPTIT</b> | AI & Web Developer</h3>
-  </div>
-
-  <p align="left">
-    <a href="https://www.linkedin.com/in/long-tr%E1%BA%A7n-h%E1%BA%A3i-aa91b3355/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
-    <a href="https://www.youtube.com/@Tr%E1%BA%A7nH%E1%BA%A3iLong-247" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" /></a>
-    <a href="https://www.facebook.com/ngaobinh24" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" /></a>
-  </p>
-</div>
+<table width="100%">
+  <tr>
+    <td style="border: none;">
+      <div align="left">
+        <h1 style="display: inline;">Hi 👋! My name is Hai Long</h1>
+        <h3>Member of <b>PROPTIT</b> | AI & Web Developer</h3>
+        <p>
+          <a href="https://www.linkedin.com/in/long-tr%E1%BA%A7n-h%E1%BA%A3i-aa91b3355/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
+          <a href="https://www.youtube.com/@Tr%E1%BA%A7nH%E1%BA%A3iLong-247" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" /></a>
+          <a href="https://www.facebook.com/ngaobinh24" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" /></a>
+        </p>
+      </div>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" height="120" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,8 +50,6 @@
   <img src="https://streak-stats.demolab.com?user=halobiron&locale=en&mode=daily&theme=tokyonight" height="165" />
   <img src="https://github-contributor-stats.vercel.app/api?username=halobiron&limit=5&theme=dark&combine_all_yearly_contributions=true" height="165" />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=halobiron&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
