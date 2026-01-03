@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" align="right" height="120" />
-  <h2 align="left">Hi 👋! My name is Hai Long</h2>
-  <p align="left">Member of <b>PROPTIT</b> | AI & Web Developer</p>  
+  <div align="left">
+    <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" align="right" height="100" />
+    <h2 style="margin-bottom: 0;">Hi 👋! My name is Hai Long</h2>
+    <span>Member of <b>PROPTIT</b> | AI & Web Developer</span>
+  </div>
   <p align="left">
     <a href="https://www.linkedin.com/in/long-tr%E1%BA%A7n-h%E1%BA%A3i-aa91b3355/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
     <a href="https://www.youtube.com/@Tr%E1%BA%A7nH%E1%BA%A3iLong-247" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" /></a>
