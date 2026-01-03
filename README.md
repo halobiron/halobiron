@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" align="right" height="100" />
+  <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" align="right" height="120" />
   
-  <div align="left" style="font-size: 24px; font-weight: bold;">Hi 👋! My name is Hai Long</div>
-  <p align="left" style="margin-top: 5px;">Member of <b>PROPTIT</b> | AI & Web Developer</p>
+  <div align="left" style="font-size: 32px; font-weight: bold; line-height: 1.2;">Hi 👋! My name is Hai Long</div>
+  <p align="left" style="font-size: 18px; margin-top: 5px;">Member of <b>PROPTIT</b> | AI & Web Developer</p>
   
   <p align="left">
     <a href="https://www.linkedin.com/in/long-tr%E1%BA%A7n-h%E1%BA%A3i-aa91b3355/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" title="IntelliJ" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" title="FileZilla" />
@@ -41,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halobiron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="160" />
 </div>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=halobiron&theme=dark&hide_border=false" height="160" />
+  <img src="https://streak-stats.demolab.com?user=halobiron&locale=en&mode=daily&theme=tokyonight" height="160" />
   <img src="https://github-contributor-stats.vercel.app/api?username=halobiron&limit=5&theme=dark&combine_all_yearly_contributions=true" height="160" />
 </div>
 
