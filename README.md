@@ -1,21 +1,17 @@
-<table width="100%">
-  <tr>
-    <td style="border: none;">
-      <div align="left">
-        <h1 style="display: inline;">Hi 👋! My name is Hai Long</h1>
-        <h3>Member of <b>PROPTIT</b> | AI & Web Developer</h3>
-        <p>
-          <a href="https://www.linkedin.com/in/long-tr%E1%BA%A7n-h%E1%BA%A3i-aa91b3355/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
-          <a href="https://www.youtube.com/@Tr%E1%BA%A7nH%E1%BA%A3iLong-247" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" /></a>
-          <a href="https://www.facebook.com/ngaobinh24" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" /></a>
-        </p>
-      </div>
-    </td>
-    <td align="right" style="border: none;">
-      <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" height="120" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div align="left">
+    <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" align="right" height="120" />
+    <span style="font-size: 2.5em; font-weight: bold;">Hi 👋! My name is Hai Long</span>
+    <br />
+    <span style="font-size: 1.2em;">Member of <b>PROPTIT</b> | AI & Web Developer</span>
+  </div>
+
+  <p align="left" style="margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/long-tr%E1%BA%A7n-h%E1%BA%A3i-aa91b3355/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
+    <a href="https://www.youtube.com/@Tr%E1%BA%A7nH%E1%BA%A3iLong-247" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" /></a>
+    <a href="https://www.facebook.com/ngaobinh24" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" /></a>
+  </p>
+</div>
 
 ---
 
