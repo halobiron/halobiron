@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halobiron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="160" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=halobiron&locale=en&mode=daily&theme=tokyonight" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=halobiron&theme=dark&hide_border=false" height="160" />
   <img src="https://github-contributor-stats.vercel.app/api?username=halobiron&limit=5&theme=dark&combine_all_yearly_contributions=true" height="160" />
 </div>
 
