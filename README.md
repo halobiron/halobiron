@@ -1,12 +1,10 @@
 <div align="center">
-  <div align="left">
-    <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" align="right" height="120" />
-    <span style="font-size: 2.5em; font-weight: bold;">Hi 👋! My name is Hai Long</span>
-    <br />
-    <span style="font-size: 1.2em;">Member of <b>PROPTIT</b> | AI & Web Developer</span>
-  </div>
-
-  <p align="left" style="margin-top: 10px;">
+  <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" align="right" height="100" />
+  
+  <div align="left" style="font-size: 24px; font-weight: bold;">Hi 👋! My name is Hai Long</div>
+  <p align="left" style="margin-top: 5px;">Member of <b>PROPTIT</b> | AI & Web Developer</p>
+  
+  <p align="left">
     <a href="https://www.linkedin.com/in/long-tr%E1%BA%A7n-h%E1%BA%A3i-aa91b3355/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
     <a href="https://www.youtube.com/@Tr%E1%BA%A7nH%E1%BA%A3iLong-247" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" /></a>
     <a href="https://www.facebook.com/ngaobinh24" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" /></a>
@@ -43,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=halobiron&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halobiron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="165" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=halobiron&locale=en&mode=daily&theme=tokyonight" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=halobiron&theme=dark&hide_border=false" height="165" />
   <img src="https://github-contributor-stats.vercel.app/api?username=halobiron&limit=5&theme=dark&combine_all_yearly_contributions=true" height="165" />
 </div>
 
