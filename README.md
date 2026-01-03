@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://cdn.weasyl.com/static/media/4e/ec/c5/4eecc5c3acdb272a32d6360252e3d51c859531d59cbfa89a042d0c25b4d3e442.gif" align="right" height="120" />
   
-  <div align="left" style="font-size: 32px; font-weight: bold; line-height: 1.2;">Hi 👋! My name is Hai Long</div>
-  <p align="left" style="font-size: 18px; margin-top: 5px;">Member of <b>PROPTIT</b> | AI & Web Developer</p>
+  <div align="left" style="font-size: 64px; font-weight: bold; line-height: 1.2;">Hi 👋! My name is Hai Long</div>
+  <p align="left" style="font-size: 32px; margin-top: 5px;">Member of <b>PROPTIT</b> | AI & Web Developer</p>
   
   <p align="left">
     <a href="https://www.linkedin.com/in/long-tr%E1%BA%A7n-h%E1%BA%A3i-aa91b3355/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
