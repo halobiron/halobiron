@@ -38,16 +38,11 @@
 
 ### 📊 GitHub Analysis
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halobiron&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halobiron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="165" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=halobiron&theme=dark&hide_border=false" height="165" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=halobiron&limit=5&theme=dark&combine_all_yearly_contributions=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=halobiron&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halobiron&theme=nightowl&show_icons=true&hide_border=true&layout=compact" height="165" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=halobiron&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+
 
 ---
 
