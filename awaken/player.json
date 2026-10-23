@@ -2,7 +2,7 @@
   "login": "halobiron",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9703607134722563,
+  "overallPercentile": 0.9703678571306409,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 854,
+      "value": 855,
       "rank": "S",
-      "percentile": 0.9673625163511574
+      "percentile": 0.96741805260843
     },
     {
       "code": "AGI",
@@ -48,7 +48,15 @@
       "percentile": 0.812807557345121
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-23T20:26:20.631Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -68,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 854
+      "value": 855
     },
     {
       "id": "unbroken",
@@ -158,12 +166,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -179,6 +187,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-23",
+        "cleared": 1,
+        "total": 3
+      },
+      {
         "date": "2026-10-22",
         "cleared": 2,
         "total": 3
@@ -187,13 +200,15 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 2,
-    "bosses": [],
+    "questsDone": 3,
+    "bosses": [
+      "2026-10-19"
+    ],
     "escapes": 0,
     "kinds": [
       "contribute",
       "commit"
     ]
   },
-  "syncedAt": "2026-10-23T11:31:41.992Z"
+  "syncedAt": "2026-10-23T20:26:20.631Z"
 }
