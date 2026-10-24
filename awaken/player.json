@@ -2,7 +2,7 @@
   "login": "halobiron",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9703678571306409,
+  "overallPercentile": 0.9708477533343705,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 855,
+      "value": 858,
       "rank": "S",
-      "percentile": 0.96741805260843
+      "percentile": 0.9675838086704664
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 14,
-      "rank": "S",
-      "percentile": 0.9762310688639344
+      "value": 15,
+      "rank": "SS",
+      "percentile": 0.9812036646741934
     },
     {
       "code": "LUK",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "S",
+      "to": "SS",
+      "at": "2026-10-24T19:28:52.087Z"
+    },
     {
       "kind": "achievement",
       "subject": "boss-slayer",
@@ -76,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 855
+      "value": 858
     },
     {
       "id": "unbroken",
@@ -101,7 +108,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 11
+      "value": 12
     },
     {
       "id": "raider",
@@ -151,22 +158,22 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 85
+      "value": 87
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 3
+      "value": 6
     },
     {
       "id": "boss-slayer",
@@ -181,11 +188,16 @@
     {
       "id": "collector",
       "tier": 0,
-      "value": 2
+      "value": 3
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-24",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-23",
         "cleared": 1,
@@ -197,18 +209,19 @@
         "total": 3
       }
     ],
-    "perfectDays": 0,
-    "run": 0,
-    "bestRun": 0,
-    "questsDone": 3,
+    "perfectDays": 1,
+    "run": 1,
+    "bestRun": 1,
+    "questsDone": 6,
     "bosses": [
       "2026-10-19"
     ],
     "escapes": 0,
     "kinds": [
       "contribute",
-      "commit"
+      "commit",
+      "average"
     ]
   },
-  "syncedAt": "2026-10-23T20:26:20.631Z"
+  "syncedAt": "2026-10-24T19:28:52.087Z"
 }
