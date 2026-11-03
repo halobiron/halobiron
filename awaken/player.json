@@ -2,7 +2,7 @@
   "login": "halobiron",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9721169698958607,
+  "overallPercentile": 0.9725323158400997,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 922,
+      "value": 930,
       "rank": "S",
-      "percentile": 0.9708377652701745
+      "percentile": 0.9712096803124438
     },
     {
       "code": "AGI",
@@ -43,12 +43,19 @@
     },
     {
       "code": "CHA",
-      "value": 6,
+      "value": 7,
       "rank": "B",
-      "percentile": 0.8348183849229494
+      "percentile": 0.8533054213093526
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "night-owl",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-03T22:17:05.644Z"
+    },
     {
       "kind": "achievement",
       "subject": "night-owl",
@@ -83,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 922
+      "value": 930
     },
     {
       "id": "unbroken",
@@ -92,8 +99,8 @@
     },
     {
       "id": "night-owl",
-      "tier": 0,
-      "value": 19
+      "tier": 1,
+      "value": 20
     },
     {
       "id": "early-bird",
@@ -138,7 +145,7 @@
     {
       "id": "beacon",
       "tier": 0,
-      "value": 6
+      "value": 7
     },
     {
       "id": "guild-hopper",
@@ -158,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 89
+      "value": 91
     },
     {
       "id": "daily-grinder",
@@ -173,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 24
+      "value": 26
     },
     {
       "id": "boss-slayer",
@@ -193,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-03",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-02",
         "cleared": 3,
@@ -255,9 +267,9 @@
       }
     ],
     "perfectDays": 5,
-    "run": 1,
+    "run": 0,
     "bestRun": 4,
-    "questsDone": 24,
+    "questsDone": 26,
     "bosses": [
       "2026-10-26",
       "2026-10-19"
@@ -272,5 +284,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-11-02T23:52:19.231Z"
+  "syncedAt": "2026-11-03T22:17:05.644Z"
 }
