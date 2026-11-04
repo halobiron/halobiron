@@ -2,7 +2,7 @@
   "login": "halobiron",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9725323158400997,
+  "overallPercentile": 0.9725388785062489,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 930,
+      "value": 931,
       "rank": "S",
-      "percentile": 0.9712096803124438
+      "percentile": 0.9712556685423106
     },
     {
       "code": "AGI",
@@ -90,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 930
+      "value": 931
     },
     {
       "id": "unbroken",
@@ -180,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 26
+      "value": 28
     },
     {
       "id": "boss-slayer",
@@ -200,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-04",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-03",
         "cleared": 2,
@@ -269,7 +274,7 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 4,
-    "questsDone": 26,
+    "questsDone": 28,
     "bosses": [
       "2026-10-26",
       "2026-10-19"
@@ -284,5 +289,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-11-03T22:17:05.644Z"
+  "syncedAt": "2026-11-04T22:36:54.485Z"
 }
