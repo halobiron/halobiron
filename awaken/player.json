@@ -2,26 +2,26 @@
   "login": "halobiron",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9725388785062489,
+  "overallPercentile": 0.9728326989885514,
   "layout": "default",
   "class": {
-    "name": "Blade Master",
-    "element": "Lightning",
-    "from": "JavaScript"
+    "name": "Grand Magus",
+    "element": "Arcane",
+    "from": "Python"
   },
   "title": "Polyglot",
   "stats": [
     {
       "code": "STR",
-      "value": 931,
+      "value": 962,
       "rank": "S",
-      "percentile": 0.9712556685423106
+      "percentile": 0.972628393505272
     },
     {
       "code": "AGI",
-      "value": 44,
+      "value": 45,
       "rank": "S",
-      "percentile": 0.9534190404477497
+      "percentile": 0.9547041057305077
     },
     {
       "code": "INT",
@@ -75,7 +75,7 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 29
+      "value": 30
     },
     {
       "id": "quickdraw",
@@ -90,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 931
+      "value": 962
     },
     {
       "id": "unbroken",
@@ -105,12 +105,12 @@
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 8
+      "value": 7
     },
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 31
+      "value": 32
     },
     {
       "id": "gate-opener",
@@ -125,7 +125,7 @@
     {
       "id": "flawless",
       "tier": 0,
-      "value": 66
+      "value": 67
     },
     {
       "id": "healer",
@@ -135,7 +135,7 @@
     {
       "id": "polyglot",
       "tier": 3,
-      "value": 8
+      "value": 9
     },
     {
       "id": "star-collector",
@@ -165,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 91
+      "value": 92
     },
     {
       "id": "daily-grinder",
@@ -180,12 +180,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 28
+      "value": 30
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "escape-artist",
@@ -200,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-05",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-04",
         "cleared": 2,
@@ -274,8 +279,9 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 4,
-    "questsDone": 28,
+    "questsDone": 30,
     "bosses": [
+      "2026-11-02",
       "2026-10-26",
       "2026-10-19"
     ],
@@ -289,5 +295,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-11-04T22:36:54.485Z"
+  "syncedAt": "2026-11-05T22:40:22.697Z"
 }
