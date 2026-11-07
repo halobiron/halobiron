@@ -55,20 +55,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-11-03T22:17:05.644Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "night-owl",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-31T20:26:42.797Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "2",
-      "to": "3",
-      "at": "2026-10-31T20:26:42.797Z"
     }
   ],
   "achievements": [
@@ -180,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 33
+      "value": 35
     },
     {
       "id": "boss-slayer",
@@ -200,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-07",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-06",
         "cleared": 3,
@@ -282,9 +273,9 @@
       }
     ],
     "perfectDays": 6,
-    "run": 1,
+    "run": 0,
     "bestRun": 4,
-    "questsDone": 33,
+    "questsDone": 35,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -300,5 +291,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-11-06T22:05:56.845Z"
+  "syncedAt": "2026-11-07T20:51:54.422Z"
 }
