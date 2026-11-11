@@ -2,7 +2,7 @@
   "login": "halobiron",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9729645927031182,
+  "overallPercentile": 0.9729832052401558,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 983,
+      "value": 986,
       "rank": "S",
-      "percentile": 0.9735032500980072
+      "percentile": 0.9736248058610503
     },
     {
       "code": "AGI",
@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "daily-grinder",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-11T23:27:07.388Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "collector",
       "from": "1",
       "to": "2",
@@ -76,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 983
+      "value": 986
     },
     {
       "id": "unbroken",
@@ -96,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 32
+      "value": 31
     },
     {
       "id": "gate-opener",
@@ -151,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 96
+      "value": 97
     },
     {
       "id": "daily-grinder",
-      "tier": 0,
-      "value": 6
+      "tier": 1,
+      "value": 7
     },
     {
       "id": "perfect-week",
@@ -166,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 40
+      "value": 43
     },
     {
       "id": "boss-slayer",
@@ -186,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-11",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-10",
         "cleared": 1,
@@ -287,10 +299,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 6,
-    "run": 0,
+    "perfectDays": 7,
+    "run": 1,
     "bestRun": 4,
-    "questsDone": 40,
+    "questsDone": 43,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -307,5 +319,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-10T22:21:39.313Z"
+  "syncedAt": "2026-11-11T23:27:07.388Z"
 }
