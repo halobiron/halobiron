@@ -2,7 +2,7 @@
   "login": "halobiron",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9729955822925482,
+  "overallPercentile": 0.9730202617173361,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 988,
+      "value": 992,
       "rank": "S",
-      "percentile": 0.973705380289637
+      "percentile": 0.973865428853012
     },
     {
       "code": "AGI",
@@ -83,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 988
+      "value": 992
     },
     {
       "id": "unbroken",
@@ -103,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 31
+      "value": 32
     },
     {
       "id": "gate-opener",
@@ -158,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 98
+      "value": 99
     },
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 7
+      "value": 8
     },
     {
       "id": "perfect-week",
@@ -173,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 46
+      "value": 49
     },
     {
       "id": "boss-slayer",
@@ -193,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-14",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-13",
         "cleared": 2,
@@ -309,10 +314,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 7,
-    "run": 0,
+    "perfectDays": 8,
+    "run": 1,
     "bestRun": 4,
-    "questsDone": 46,
+    "questsDone": 49,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
@@ -330,5 +335,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-13T22:35:03.244Z"
+  "syncedAt": "2026-11-14T21:26:43.225Z"
 }
