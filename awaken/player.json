@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "quest-hunter",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-15T21:45:08.296Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "daily-grinder",
       "from": "0",
       "to": "1",
@@ -172,8 +179,8 @@
     },
     {
       "id": "quest-hunter",
-      "tier": 0,
-      "value": 49
+      "tier": 1,
+      "value": 51
     },
     {
       "id": "boss-slayer",
@@ -193,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-15",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-14",
         "cleared": 3,
@@ -315,9 +327,9 @@
       }
     ],
     "perfectDays": 8,
-    "run": 1,
+    "run": 0,
     "bestRun": 4,
-    "questsDone": 49,
+    "questsDone": 51,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
@@ -335,5 +347,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-14T21:26:43.225Z"
+  "syncedAt": "2026-11-15T21:45:08.296Z"
 }
