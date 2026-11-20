@@ -2,7 +2,7 @@
   "login": "halobiron",
   "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9730754299931701,
+  "overallPercentile": 0.9730876225117009,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1001,
+      "value": 1003,
       "rank": "S",
-      "percentile": 0.9742202563903956
+      "percentile": 0.9742981290086229
     },
     {
       "code": "AGI",
@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "night-owl",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-20T23:04:25.908Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "relentless",
       "from": "1",
       "to": "2",
@@ -83,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1001
+      "value": 1003
     },
     {
       "id": "unbroken",
@@ -92,8 +99,8 @@
     },
     {
       "id": "night-owl",
-      "tier": 0,
-      "value": 19
+      "tier": 1,
+      "value": 20
     },
     {
       "id": "early-bird",
@@ -158,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 102
+      "value": 103
     },
     {
       "id": "daily-grinder",
@@ -173,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 59
+      "value": 61
     },
     {
       "id": "boss-slayer",
@@ -193,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-20",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-19",
         "cleared": 2,
@@ -342,7 +354,7 @@
     "perfectDays": 9,
     "run": 0,
     "bestRun": 4,
-    "questsDone": 59,
+    "questsDone": 61,
     "bosses": [
       "2026-11-16",
       "2026-11-09",
@@ -361,5 +373,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-19T23:33:47.571Z"
+  "syncedAt": "2026-11-20T23:04:25.908Z"
 }
