@@ -1,8 +1,8 @@
 {
   "login": "halobiron",
-  "level": 13,
+  "level": 12,
   "overall": "S",
-  "overallPercentile": 0.9732201645189843,
+  "overallPercentile": 0.9729092569884155,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1025,
+      "value": 1021,
       "rank": "S",
-      "percentile": 0.9751320312760219
+      "percentile": 0.9749834454665343
     },
     {
       "code": "AGI",
-      "value": 45,
+      "value": 42,
       "rank": "S",
-      "percentile": 0.9547041057305077
+      "percentile": 0.9506790555647697
     },
     {
       "code": "INT",
@@ -75,22 +75,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 30
+      "value": 28
     },
     {
       "id": "quickdraw",
       "tier": 2,
-      "value": 23
+      "value": 22
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 18
+      "value": 16
     },
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1025
+      "value": 1021
     },
     {
       "id": "unbroken",
@@ -119,8 +119,8 @@
     },
     {
       "id": "raider",
-      "tier": 2,
-      "value": 10
+      "tier": 1,
+      "value": 8
     },
     {
       "id": "flawless",
@@ -180,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 68
+      "value": 69
     },
     {
       "id": "boss-slayer",
@@ -200,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-24",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-23",
         "cleared": 2,
@@ -369,7 +374,7 @@
     "perfectDays": 10,
     "run": 0,
     "bestRun": 4,
-    "questsDone": 68,
+    "questsDone": 69,
     "bosses": [
       "2026-11-16",
       "2026-11-09",
@@ -388,5 +393,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-24T03:19:14.217Z"
+  "syncedAt": "2026-11-25T01:25:14.360Z"
 }
