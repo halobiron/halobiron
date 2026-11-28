@@ -62,13 +62,6 @@
       "from": "12",
       "to": "13",
       "at": "2026-11-21T22:10:13.834Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "night-owl",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-20T23:04:25.908Z"
     }
   ],
   "achievements": [
@@ -170,7 +163,7 @@
     {
       "id": "daily-grinder",
       "tier": 1,
-      "value": 11
+      "value": 12
     },
     {
       "id": "perfect-week",
@@ -180,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 74
+      "value": 77
     },
     {
       "id": "boss-slayer",
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-27",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-26",
         "cleared": 2,
@@ -381,10 +379,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 11,
-    "run": 0,
+    "perfectDays": 12,
+    "run": 1,
     "bestRun": 4,
-    "questsDone": 74,
+    "questsDone": 77,
     "bosses": [
       "2026-11-23",
       "2026-11-16",
@@ -404,5 +402,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-27T01:00:03.276Z"
+  "syncedAt": "2026-11-28T00:31:11.841Z"
 }
